@@ -29,5 +29,5 @@
                 }
             ]
         },
-        plugin: [new MiniCssExtractPlugin()]
+        plugins: [new MiniCssExtractPlugin()]
     }
